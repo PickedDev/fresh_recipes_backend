@@ -1,0 +1,1 @@
+web: gunicorn fresh_recipes_backend.wsgi
